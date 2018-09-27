@@ -9,4 +9,4 @@ dependencies: \
   /Users/kirayang/Documents/GitHub/rn-course/node_modules/react-native/React/Base/RCTLog.h \
   /Users/kirayang/Documents/GitHub/rn-course/node_modules/react-native/React/Base/RCTAssert.h \
   /Users/kirayang/Documents/GitHub/rn-course/node_modules/react-native/React/Base/RCTUtils.h \
-  /Users/kirayang/Documents/GitHub/rn-course/node_modules/react-native/React/../Libraries/WebSocket/RCTSRWebSocket.h
+  /Users/kirayang/Documents/GitHub/rn-course/node_modules/react-native/Libraries/WebSocket/RCTSRWebSocket.h
