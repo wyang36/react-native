@@ -13,16 +13,16 @@ export default class App extends Component {
     else {
       this.setState(prevState => {
         return {
-          places: prevState.places.concat(placeName)
+          places: prevState.places.concat({key: `${Math.random()}`, value: placeName})
         };
       });
     }
   };
 
-  placeDeletedHandler = index => {
+  placeDeletedHandler = key => {
     this.setState(prevState => {
       return {
-        places: prevState.places.filter((place, i) => i !== index)
+        places: prevState.places.filter((place) => place.key !== key)
       }
     })
   }
