@@ -1,4 +1,4 @@
-#Thu Aug 30 13:00:30 EDT 2018
-base.0=/Users/kirayang/Documents/GitHub/rn-course/android/app/build/intermediates/transforms/dexMerger/debug/8
+#Fri Sep 28 19:09:56 EDT 2018
+base.0=/Users/kirayang/Documents/GitHub/rn-course/android/app/build/intermediates/transforms/dexMerger/debug/27
 path.0=classes.dex
 renamed.0=classes.dex
